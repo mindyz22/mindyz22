@@ -1,5 +1,5 @@
 ## Hello!
-# Current interests: How do we use human intelligence to build better machines?
+### Current interests: How do we use human intelligence to build better machines?
 
 <!--
 **mindyz22/mindyz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
